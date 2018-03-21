@@ -10,7 +10,7 @@ contract NuLandToken is StandardToken {
 
   // Constructor of contract. Here is total supply initialisation. 
   function NuLandToken() public {
-      totalSupply = 531000000;
+      totalSupply = 531000000 * 1 ether;
       balances[msg.sender] = totalSupply;
   }
 
