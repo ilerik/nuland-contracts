@@ -45,3 +45,5 @@ NuLandERC20/node_modules/
 /NuLandERC20/build/contracts/NuLandToken.json
 /NuLandERC20/build/contracts/SafeMath.json
 /NuLandERC20/build/contracts/StandardToken.json
+/NuLandERC20/contracts/.ipynb_checkpoints/contractAssembler-checkpoint.ipynb
+/NuLandERC20/contracts/res.txt
